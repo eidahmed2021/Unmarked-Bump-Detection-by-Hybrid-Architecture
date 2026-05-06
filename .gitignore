@@ -1,0 +1,26 @@
+# Python & Notebooks
+__pycache__/
+.ipynb_checkpoints
+*.py[cod]
+
+# Strict Ignore: Data, Logs, and Large Weights
+datasets/
+runs/
+wandb/
+xt5bjdhy5g-1/
+*.pt
+*.pdf
+*.zip
+*.rar
+
+# Allow ONLY what we need for the organized repo
+!notebooks/*.ipynb
+!config/*.yaml
+!results/*.png
+!results/*.csv
+!results/*.mp4
+!README.md
+!.gitignore
+
+# Keep folder structure if empty
+!*/.gitkeep

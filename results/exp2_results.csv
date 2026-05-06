@@ -1,0 +1,5 @@
+Metric,YOLOv8m (Exp1),CBAM_Original,CBAM_Augmented
+marked AP50,0.9213,0.8551,0.9083
+non-marked AP50,0.995,0.8492,0.6187
+Overall mAP50,0.9581,0.8521,0.7635
+Overall mAP50-95,0.5289,0.3804,0.4013

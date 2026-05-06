@@ -1,0 +1,5 @@
+Metric,YOLO Baseline (Original),CBAM Hybrid (Original),YOLO Baseline (Augmented),CBAM Hybrid (Augmented)
+marked AP50,0.9404,0.8551,0.9213,0.8951
+non-marked AP50,0.745,0.8492,0.995,0.8879
+Overall mAP50,0.8427,0.8521,0.9581,0.8915
+Overall mAP50-95,0.417,0.3804,0.5289,0.4831
