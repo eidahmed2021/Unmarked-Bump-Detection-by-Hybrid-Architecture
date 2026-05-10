@@ -282,7 +282,7 @@ Adding three CBAM modules to the backbone introduces only **~2ms additional late
 
 ---
 
-##  Expert Interpretation
+##   Interpretation
 
 ### Why CBAM Works on Non-Marked Bumps
 
